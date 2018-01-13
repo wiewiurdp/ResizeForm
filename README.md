@@ -1,0 +1,1 @@
+Little app which resize images and put all details to Log file.
