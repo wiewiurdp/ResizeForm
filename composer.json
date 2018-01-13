@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^1.23",
+        "eventviva/php-image-resize": "1.6.*"
+    }
+}
